@@ -1,0 +1,23 @@
+#team .thumbnail {
+  border:0px;
+  transition:none;
+  box-shadow:none !important;
+}
+
+#team .glyphicon, #team .icon {
+  font-size:16px;
+  display:inline-block;
+  color:#666;
+  margin:0 10px;
+  width:30px;
+  height:30px;
+  border:1px solid #c8ced7;
+  text-align:center;
+  border-radius:50%;
+  line-height:30px;
+}
+
+#team .icon {
+  background:#f2f2f2;
+}
+
