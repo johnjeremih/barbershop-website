@@ -1,5 +1,5 @@
 # barbershop-website
-This websie was made as a example for a barbershop. 
+This website was made as a example for a barbershop. 
 
 
 ## **Screen 1** 
